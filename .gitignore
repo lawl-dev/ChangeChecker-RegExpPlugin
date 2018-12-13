@@ -1,0 +1,23 @@
+# folders
+.vs/
+.vscode/
+deployment/
+artifacts/
+dist/
+types/
+**/node_modules/
+**/bower_components/
+**/bin/
+**/obj/
+**/packages/
+/temp/
+
+# file masks
+*.suo
+*.user
+*.dbmdl
+*.tgz
+
+# specific files
+project.lock.json
+yarn.lock
